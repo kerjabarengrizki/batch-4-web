@@ -1,11 +1,11 @@
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
-<suite name="SmokeTestSuite" verbose="1" parallel="tests" thread-count="2">
+<suite name="SmokeTestSuite" verbose="1">
     <listeners>
         <listener class-name="core.TestListener"/>
         <listener class-name="core.RetryListener"/>
     </listeners>
     <parameter name="browser" value="chrome"/>
-    <test name="BookstoreLoginTests">
+    <!--<test name="BookstoreLoginTests">
         <groups>
             <run>
                 <include name="smoke"/>
@@ -26,8 +26,8 @@
         <classes>
             <class name="bookstore.HomePageTests"/>
         </classes>
-    </test>
-    <!--<test name="SaucedemoLoginTests">
+    </test>-->
+    <test name="SaucedemoLoginTests">
         <groups>
             <run>
                 <include name="smoke"/>
@@ -36,5 +36,5 @@
         <classes>
             <class name="saucedemo.LoginTests"/>
         </classes>
-    </test>-->
+    </test>
 </suite>
