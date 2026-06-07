@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="bookstore.LoginTests" tests="4" skipped="0" failures="0" errors="0" timestamp="2026-05-16T08:45:23" hostname="Muhamad-Rizki.local" time="31.735">
+  <properties/>
+  <testcase name="testLoginSuccess" classname="bookstore.LoginTests" time="4.117"/>
+  <testcase name="testLoginSuccess" classname="bookstore.LoginTests" time="12.268"/>
+  <testcase name="testLoginFailed" classname="bookstore.LoginTests" time="3.531"/>
+  <testcase name="testLoginFailed" classname="bookstore.LoginTests" time="4.55"/>
+  <system-out><![CDATA[=== Driver Initialization ===
+=== Driver Initialization ===
+Running in CI: false
+Setting up ChromeDriver via WebDriverManager
+Running in CI: false
+Setting up ChromeDriver via WebDriverManager
+Creating ChromeDriver instance...
+Creating ChromeDriver instance...
+ChromeDriver created successfully!
+ChromeDriver created successfully!
+15:45:23.440 [TestNG-tests-1] INFO  core.TestListener - ---------- Test Started: testLoginSuccess ----------
+15:45:24.356 [TestNG-tests-1] INFO  core.TestListener - ---------- Test Started: testLoginSuccess ----------
+15:45:27.557 [TestNG-tests-1] INFO  core.TestListener - Test PASSED: testLoginSuccess (Duration: 4117ms)
+=== Driver Initialization ===
+Running in CI: false
+Setting up ChromeDriver via WebDriverManager
+Creating ChromeDriver instance...
+ChromeDriver created successfully!
+15:45:36.626 [TestNG-tests-1] INFO  core.TestListener - Test PASSED: testLoginSuccess (Duration: 12268ms)
+=== Driver Initialization ===
+Running in CI: false
+Setting up ChromeDriver via WebDriverManager
+Creating ChromeDriver instance...
+15:45:42.424 [TestNG-tests-1] INFO  core.TestListener - ---------- Test Started: testLoginFailed ----------
+ChromeDriver created successfully!
+15:45:43.656 [TestNG-tests-2] INFO  core.TestListener - Test PASSED: testVerifyHomepage (Duration: 22654ms)
+15:45:44.381 [TestNG-tests-2] INFO  core.TestListener - Test PASSED: testVerifyHomepage (Duration: 20350ms)
+15:45:50.624 [TestNG-tests-1] INFO  core.TestListener - ---------- Test Started: testLoginFailed ----------
+15:45:55.174 [TestNG-tests-1] INFO  core.TestListener - Test PASSED: testLoginFailed (Duration: 4550ms)
+]]></system-out>
+  <system-err><![CDATA[May 16, 2026 3:45:10 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find CDP implementation matching 148
+May 16, 2026 3:45:10 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$4
+WARNING: Unable to find version of CDP to use for 148.0.7778.168. You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.35.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+May 16, 2026 3:45:10 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find CDP implementation matching 148
+May 16, 2026 3:45:10 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$4
+WARNING: Unable to find version of CDP to use for 148.0.7778.168. You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.35.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+May 16, 2026 3:45:29 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find CDP implementation matching 148
+May 16, 2026 3:45:29 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$4
+WARNING: Unable to find version of CDP to use for 148.0.7778.168. You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.35.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+May 16, 2026 3:45:42 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find CDP implementation matching 148
+May 16, 2026 3:45:42 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$4
+WARNING: Unable to find version of CDP to use for 148.0.7778.168. You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.35.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+]]></system-err>
+</testsuite>

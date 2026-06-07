@@ -1,0 +1,40 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="SmokeTestSuite" verbose="1" parallel="tests" thread-count="2">
+    <listeners>
+        <listener class-name="core.TestListener"/>
+        <listener class-name="core.RetryListener"/>
+    </listeners>
+    <parameter name="browser" value="chrome"/>
+    <test name="BookstoreLoginTests">
+        <groups>
+            <run>
+                <include name="smoke"/>
+                <exclude name="p2"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="bookstore.LoginTests"/>
+        </classes>
+    </test>
+    <test name="BookstoreHomePageTests">
+        <groups>
+            <run>
+                <include name="smoke"/>
+                <exclude name="p2"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="bookstore.HomePageTests"/>
+        </classes>
+    </test>
+    <!--<test name="SaucedemoLoginTests">
+        <groups>
+            <run>
+                <include name="smoke"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="saucedemo.LoginTests"/>
+        </classes>
+    </test>-->
+</suite>

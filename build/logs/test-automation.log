@@ -1,0 +1,582 @@
+2026-05-09 09:18:11.286 [main] INFO  saucedemo.LoginTests - Starting test: testLogin
+2026-05-09 09:18:11.305 [main] INFO  saucedemo.LoginTests - Logging in with standard user credentials
+2026-05-09 09:18:11.702 [main] INFO  saucedemo.LoginTests - Verifying user is logged in successfully
+2026-05-09 09:18:11.742 [main] INFO  saucedemo.LoginTests - Verifying redirection to inventory page
+2026-05-09 09:18:11.746 [main] INFO  saucedemo.LoginTests - Verifying no error message is displayed
+2026-05-09 09:18:22.024 [main] INFO  saucedemo.LoginTests - testLogin completed successfully
+2026-05-09 09:19:30.820 [main] INFO  saucedemo.LoginTests - Starting test: testLogin
+2026-05-09 09:19:30.837 [main] INFO  saucedemo.LoginTests - Logging in with standard user credentials
+2026-05-09 09:19:31.160 [main] INFO  saucedemo.LoginTests - Verifying user is logged in successfully
+2026-05-09 09:19:31.217 [main] INFO  saucedemo.LoginTests - Verifying redirection to homepage page
+2026-05-09 11:08:15.747 [Test worker] INFO  core.TestListener - ========== Test Suite Started: LoginTests ==========
+2026-05-09 11:08:15.830 [Test worker] INFO  core.TestListener - ExtentReports initialized. Report will be saved to: /Users/muhamad.rizki/bootcamp/batch-4-qa/reports/extent-report_2026-05-09_11-08-15.html
+2026-05-09 11:08:22.352 [Test worker] INFO  core.TestListener - ---------- Test Started: testLogin ----------
+2026-05-09 11:08:22.374 [Test worker] INFO  saucedemo.LoginTests - Memulai test login dengan credential standard user
+2026-05-09 11:08:22.390 [Test worker] INFO  saucedemo.LoginTests - User login menggunakan credential standard user
+2026-05-09 11:08:22.713 [Test worker] INFO  saucedemo.LoginTests - Verify user sukses login dan melihat halaman Products
+2026-05-09 11:08:22.768 [Test worker] INFO  saucedemo.LoginTests - Verify user sukses redirected ke halaman inventory
+2026-05-09 11:08:22.773 [Test worker] INFO  saucedemo.LoginTests - Verify tidak ada error message yang ditampilkan setelah login sukses
+2026-05-09 11:08:33.230 [Test worker] INFO  saucedemo.LoginTests - testLogin sudah dijalankan dengan sukses
+2026-05-09 11:08:33.232 [Test worker] INFO  core.TestListener - Test PASSED: testLogin (Duration: 10880ms)
+2026-05-09 11:08:33.411 [Test worker] INFO  core.TestListener - ========== Test Suite Finished: LoginTests ==========
+2026-05-09 11:08:33.412 [Test worker] INFO  core.TestListener - Total tests: 1, Passed: 1, Failed: 0, Skipped: 0
+2026-05-09 11:08:33.556 [Test worker] INFO  core.TestListener - ExtentReports flushed successfully
+2026-05-09 11:12:35.815 [Test worker] INFO  core.TestListener - ========== Test Suite Started: LoginTests ==========
+2026-05-09 11:12:35.893 [Test worker] INFO  core.TestListener - ExtentReports initialized. Report will be saved to: /Users/muhamad.rizki/bootcamp/batch-4-qa/reports/extent-report_2026-05-09_11-12-35.html
+2026-05-09 11:12:39.444 [Test worker] INFO  core.TestListener - ---------- Test Started: testLogin ----------
+2026-05-09 11:12:39.448 [Test worker] INFO  saucedemo.LoginTests - Memulai test login dengan credential standard user
+2026-05-09 11:12:39.472 [Test worker] INFO  saucedemo.LoginTests - User login menggunakan credential standard user
+2026-05-09 11:12:39.775 [Test worker] INFO  saucedemo.LoginTests - Verify user sukses login dan melihat halaman Products
+2026-05-09 11:12:39.834 [Test worker] INFO  saucedemo.LoginTests - Verify user sukses redirected ke halaman inventory
+2026-05-09 11:12:39.839 [Test worker] INFO  saucedemo.LoginTests - Verify tidak ada error message yang ditampilkan setelah login sukses
+2026-05-09 11:12:50.133 [Test worker] INFO  saucedemo.LoginTests - testLogin sudah dijalankan dengan sukses
+2026-05-09 11:12:50.134 [Test worker] INFO  core.TestListener - Test PASSED: testLogin (Duration: 10690ms)
+2026-05-09 11:12:50.358 [Test worker] INFO  core.TestListener - ========== Test Suite Finished: LoginTests ==========
+2026-05-09 11:12:50.358 [Test worker] INFO  core.TestListener - Total tests: 1, Passed: 1, Failed: 0, Skipped: 0
+2026-05-09 11:12:50.497 [Test worker] INFO  core.TestListener - ExtentReports flushed successfully
+2026-05-09 11:20:38.081 [Test worker] INFO  core.TestListener - ========== Test Suite Started: LoginTests ==========
+2026-05-09 11:20:38.164 [Test worker] INFO  core.TestListener - ExtentReports initialized. Report will be saved to: /Users/muhamad.rizki/bootcamp/batch-4-qa/reports/extent-report_2026-05-09_11-20-38.html
+2026-05-09 11:20:42.451 [Test worker] INFO  core.TestListener - ---------- Test Started: testLogin ----------
+2026-05-09 11:20:42.459 [Test worker] INFO  saucedemo.LoginTests - Memulai test login dengan credential standard user
+2026-05-09 11:20:42.479 [Test worker] INFO  saucedemo.LoginTests - User login menggunakan credential standard user
+2026-05-09 11:20:42.815 [Test worker] INFO  saucedemo.LoginTests - Verify user sukses login dan melihat halaman Products
+2026-05-09 11:20:42.875 [Test worker] INFO  saucedemo.LoginTests - Verify user sukses redirected ke halaman inventory
+2026-05-09 11:20:42.885 [Test worker] WARN  core.TestListener - Test SKIPPED: testLogin
+2026-05-09 11:20:45.935 [Test worker] INFO  core.TestListener - ---------- Test Started: testLogin ----------
+2026-05-09 11:20:45.936 [Test worker] INFO  saucedemo.LoginTests - Memulai test login dengan credential standard user
+2026-05-09 11:20:45.936 [Test worker] INFO  saucedemo.LoginTests - User login menggunakan credential standard user
+2026-05-09 11:20:46.230 [Test worker] INFO  saucedemo.LoginTests - Verify user sukses login dan melihat halaman Products
+2026-05-09 11:20:46.270 [Test worker] INFO  saucedemo.LoginTests - Verify user sukses redirected ke halaman inventory
+2026-05-09 11:20:46.278 [Test worker] WARN  core.TestListener - Test SKIPPED: testLogin
+2026-05-09 11:20:49.432 [Test worker] INFO  core.TestListener - ---------- Test Started: testLogin ----------
+2026-05-09 11:20:49.433 [Test worker] INFO  saucedemo.LoginTests - Memulai test login dengan credential standard user
+2026-05-09 11:20:49.433 [Test worker] INFO  saucedemo.LoginTests - User login menggunakan credential standard user
+2026-05-09 11:20:49.701 [Test worker] INFO  saucedemo.LoginTests - Verify user sukses login dan melihat halaman Products
+2026-05-09 11:20:49.757 [Test worker] INFO  saucedemo.LoginTests - Verify user sukses redirected ke halaman inventory
+2026-05-09 11:20:49.762 [Test worker] ERROR core.TestListener - Test FAILED: testLogin
+2026-05-09 11:20:49.762 [Test worker] ERROR core.TestListener - Failure reason: User should be redirected to the inventory page after successful login expected [true] but found [false]
+2026-05-09 11:20:49.898 [Test worker] INFO  core.TestListener - Screenshot saved: /Users/muhamad.rizki/bootcamp/batch-4-qa/reports/screenshots/testLogin_20260509_112049.png
+2026-05-09 11:20:49.899 [Test worker] INFO  core.TestListener - Screenshot captured: screenshots/testLogin_20260509_112049.png
+2026-05-09 11:20:50.109 [Test worker] INFO  core.TestListener - ========== Test Suite Finished: LoginTests ==========
+2026-05-09 11:20:50.110 [Test worker] INFO  core.TestListener - Total tests: 1, Passed: 0, Failed: 1, Skipped: 2
+2026-05-09 11:20:50.290 [Test worker] INFO  core.TestListener - ExtentReports flushed successfully
+2026-05-09 13:14:50.903 [Test worker] INFO  core.TestListener - ========== Test Suite Started: LoginTests ==========
+2026-05-09 13:14:50.987 [Test worker] INFO  core.TestListener - ExtentReports initialized. Report will be saved to: /Users/muhamad.rizki/bootcamp/batch-4-qa/reports/extent-report_2026-05-09_13-14-50.html
+2026-05-09 13:14:56.955 [Test worker] INFO  core.TestListener - ---------- Test Started: testLogin ----------
+2026-05-09 13:14:56.964 [Test worker] INFO  saucedemo.LoginTests - Memulai test login dengan credential standard user
+2026-05-09 13:14:56.988 [Test worker] INFO  saucedemo.LoginTests - User login menggunakan credential standard user
+2026-05-09 13:14:57.356 [Test worker] INFO  saucedemo.LoginTests - Verify user sukses login dan melihat halaman Products
+2026-05-09 13:14:57.425 [Test worker] INFO  saucedemo.LoginTests - Verify user sukses redirected ke halaman inventory
+2026-05-09 13:14:57.430 [Test worker] INFO  saucedemo.LoginTests - Verify tidak ada error message yang ditampilkan setelah login sukses
+2026-05-09 13:15:07.677 [Test worker] INFO  saucedemo.LoginTests - testLogin sudah dijalankan dengan sukses
+2026-05-09 13:15:07.679 [Test worker] INFO  core.TestListener - Test PASSED: testLogin (Duration: 10724ms)
+2026-05-09 13:15:07.846 [Test worker] INFO  core.TestListener - ========== Test Suite Finished: LoginTests ==========
+2026-05-09 13:15:07.846 [Test worker] INFO  core.TestListener - Total tests: 1, Passed: 1, Failed: 0, Skipped: 0
+2026-05-09 13:15:07.997 [Test worker] INFO  core.TestListener - ExtentReports flushed successfully
+2026-05-09 13:18:09.714 [Test worker] INFO  core.TestListener - ========== Test Suite Started: LoginTests ==========
+2026-05-09 13:18:09.794 [Test worker] INFO  core.TestListener - ExtentReports initialized. Report will be saved to: /Users/muhamad.rizki/bootcamp/batch-4-qa/reports/extent-report_2026-05-09_13-18-09.html
+2026-05-09 13:18:16.700 [Test worker] INFO  core.TestListener - ---------- Test Started: testLogin ----------
+2026-05-09 13:18:16.708 [Test worker] INFO  saucedemo.LoginTests - Memulai test login dengan credential standard user
+2026-05-09 13:18:16.728 [Test worker] INFO  saucedemo.LoginTests - User login menggunakan credential standard user
+2026-05-09 13:18:27.205 [Test worker] WARN  core.TestListener - Test SKIPPED: testLogin
+2026-05-09 13:18:31.771 [Test worker] INFO  core.TestListener - ---------- Test Started: testLogin ----------
+2026-05-09 13:18:31.772 [Test worker] INFO  saucedemo.LoginTests - Memulai test login dengan credential standard user
+2026-05-09 13:18:31.773 [Test worker] INFO  saucedemo.LoginTests - User login menggunakan credential standard user
+2026-05-09 13:18:41.972 [Test worker] WARN  core.TestListener - Test SKIPPED: testLogin
+2026-05-09 13:18:50.573 [Test worker] INFO  core.TestListener - ---------- Test Started: testLogin ----------
+2026-05-09 13:18:50.573 [Test worker] INFO  saucedemo.LoginTests - Memulai test login dengan credential standard user
+2026-05-09 13:18:50.574 [Test worker] INFO  saucedemo.LoginTests - User login menggunakan credential standard user
+2026-05-09 13:19:00.783 [Test worker] ERROR core.TestListener - Test FAILED: testLogin
+2026-05-09 13:19:00.784 [Test worker] ERROR core.TestListener - Failure reason: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.id: user-name' (tried for 10 second(s) with 500 milliseconds interval)
+2026-05-09 13:19:00.947 [Test worker] INFO  core.TestListener - Screenshot saved: /Users/muhamad.rizki/bootcamp/batch-4-qa/reports/screenshots/testLogin_20260509_131900.png
+2026-05-09 13:19:00.950 [Test worker] INFO  core.TestListener - Screenshot captured: screenshots/testLogin_20260509_131900.png
+2026-05-09 13:19:01.519 [Test worker] INFO  core.TestListener - ========== Test Suite Finished: LoginTests ==========
+2026-05-09 13:19:01.519 [Test worker] INFO  core.TestListener - Total tests: 1, Passed: 0, Failed: 1, Skipped: 2
+2026-05-09 13:19:01.735 [Test worker] INFO  core.TestListener - ExtentReports flushed successfully
+2026-05-09 13:26:11.746 [Test worker] INFO  core.TestListener - ========== Test Suite Started: LoginTests ==========
+2026-05-09 13:26:11.824 [Test worker] INFO  core.TestListener - ExtentReports initialized. Report will be saved to: /Users/muhamad.rizki/bootcamp/batch-4-qa/reports/extent-report_2026-05-09_13-26-11.html
+2026-05-09 13:26:17.022 [Test worker] INFO  core.TestListener - ---------- Test Started: testLogin ----------
+2026-05-09 13:26:17.031 [Test worker] INFO  saucedemo.LoginTests - Memulai test login dengan credential standard user
+2026-05-09 13:26:17.046 [Test worker] INFO  saucedemo.LoginTests - User login menggunakan credential standard user
+2026-05-09 13:26:27.518 [Test worker] WARN  core.TestListener - Test SKIPPED: testLogin
+2026-05-09 13:26:35.486 [Test worker] INFO  core.TestListener - ---------- Test Started: testLogin ----------
+2026-05-09 13:26:35.487 [Test worker] INFO  saucedemo.LoginTests - Memulai test login dengan credential standard user
+2026-05-09 13:26:35.487 [Test worker] INFO  saucedemo.LoginTests - User login menggunakan credential standard user
+2026-05-09 13:26:45.855 [Test worker] WARN  core.TestListener - Test SKIPPED: testLogin
+2026-05-09 13:26:50.258 [Test worker] INFO  core.TestListener - ---------- Test Started: testLogin ----------
+2026-05-09 13:26:50.259 [Test worker] INFO  saucedemo.LoginTests - Memulai test login dengan credential standard user
+2026-05-09 13:26:50.259 [Test worker] INFO  saucedemo.LoginTests - User login menggunakan credential standard user
+2026-05-09 13:27:00.661 [Test worker] ERROR core.TestListener - Test FAILED: testLogin
+2026-05-09 13:27:00.662 [Test worker] ERROR core.TestListener - Failure reason: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.id: user-name' (tried for 10 second(s) with 500 milliseconds interval)
+2026-05-09 13:27:00.899 [Test worker] INFO  core.TestListener - Screenshot saved: /Users/muhamad.rizki/bootcamp/batch-4-qa/reports/screenshots/testLogin_20260509_132700.png
+2026-05-09 13:27:00.900 [Test worker] INFO  core.TestListener - Screenshot captured: screenshots/testLogin_20260509_132700.png
+2026-05-09 13:27:01.084 [Test worker] INFO  core.TestListener - ========== Test Suite Finished: LoginTests ==========
+2026-05-09 13:27:01.084 [Test worker] INFO  core.TestListener - Total tests: 1, Passed: 0, Failed: 1, Skipped: 2
+2026-05-09 13:27:01.243 [Test worker] INFO  core.TestListener - ExtentReports flushed successfully
+2026-05-09 14:54:01.612 [Test worker] INFO  core.TestListener - ========== Test Suite Started: LoginTests ==========
+2026-05-09 14:54:01.717 [Test worker] INFO  core.TestListener - ExtentReports initialized. Report will be saved to: /Users/muhamad.rizki/bootcamp/batch-4-qa/reports/extent-report_2026-05-09_14-54-01.html
+2026-05-09 14:54:07.242 [Test worker] INFO  core.TestListener - ---------- Test Started: testLogin ----------
+2026-05-09 14:54:07.249 [Test worker] INFO  saucedemo.LoginTests - Memulai test login dengan credential standard user
+2026-05-09 14:54:07.269 [Test worker] INFO  saucedemo.LoginTests - User login menggunakan credential standard user
+2026-05-09 14:54:17.280 [Test worker] WARN  core.TestListener - Test SKIPPED: testLogin
+2026-05-09 14:54:21.560 [Test worker] INFO  core.TestListener - ---------- Test Started: testLogin ----------
+2026-05-09 14:54:21.563 [Test worker] INFO  saucedemo.LoginTests - Memulai test login dengan credential standard user
+2026-05-09 14:54:21.563 [Test worker] INFO  saucedemo.LoginTests - User login menggunakan credential standard user
+2026-05-09 14:54:31.885 [Test worker] WARN  core.TestListener - Test SKIPPED: testLogin
+2026-05-09 14:54:33.975 [Test worker] INFO  core.TestListener - ---------- Test Started: testLogin ----------
+2026-05-09 14:54:33.976 [Test worker] INFO  saucedemo.LoginTests - Memulai test login dengan credential standard user
+2026-05-09 14:54:33.977 [Test worker] INFO  saucedemo.LoginTests - User login menggunakan credential standard user
+2026-05-09 14:54:44.355 [Test worker] ERROR core.TestListener - Test FAILED: testLogin
+2026-05-09 14:54:44.355 [Test worker] ERROR core.TestListener - Failure reason: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.id: user-name' (tried for 10 second(s) with 500 milliseconds interval)
+2026-05-09 14:54:44.471 [Test worker] INFO  core.TestListener - Screenshot saved: /Users/muhamad.rizki/bootcamp/batch-4-qa/reports/screenshots/testLogin_20260509_145444.png
+2026-05-09 14:54:44.473 [Test worker] INFO  core.TestListener - Screenshot captured: screenshots/testLogin_20260509_145444.png
+2026-05-09 14:54:44.682 [Test worker] INFO  core.TestListener - ========== Test Suite Finished: LoginTests ==========
+2026-05-09 14:54:44.682 [Test worker] INFO  core.TestListener - Total tests: 1, Passed: 0, Failed: 1, Skipped: 2
+2026-05-09 14:54:44.839 [Test worker] INFO  core.TestListener - ExtentReports flushed successfully
+2026-05-09 14:56:22.882 [Test worker] INFO  core.TestListener - ========== Test Suite Started: LoginTests ==========
+2026-05-09 14:56:22.955 [Test worker] INFO  core.TestListener - ExtentReports initialized. Report will be saved to: /Users/muhamad.rizki/bootcamp/batch-4-qa/reports/extent-report_2026-05-09_14-56-22.html
+2026-05-09 14:56:22.959 [Test worker] INFO  core.TestListener - ========== Test Suite Finished: LoginTests ==========
+2026-05-09 14:56:22.959 [Test worker] INFO  core.TestListener - Total tests: 1, Passed: 0, Failed: 0, Skipped: 0
+2026-05-09 14:56:23.090 [Test worker] INFO  core.TestListener - ExtentReports flushed successfully
+2026-05-09 14:56:27.966 [Test worker] INFO  core.TestListener - ========== Test Suite Started: LoginTests ==========
+2026-05-09 14:56:28.041 [Test worker] INFO  core.TestListener - ExtentReports initialized. Report will be saved to: /Users/muhamad.rizki/bootcamp/batch-4-qa/reports/extent-report_2026-05-09_14-56-27.html
+2026-05-09 14:56:28.044 [Test worker] INFO  core.TestListener - ========== Test Suite Finished: LoginTests ==========
+2026-05-09 14:56:28.044 [Test worker] INFO  core.TestListener - Total tests: 1, Passed: 0, Failed: 0, Skipped: 0
+2026-05-09 14:56:28.173 [Test worker] INFO  core.TestListener - ExtentReports flushed successfully
+2026-05-09 14:56:58.305 [Test worker] INFO  core.TestListener - ========== Test Suite Started: LoginTests ==========
+2026-05-09 14:56:58.382 [Test worker] INFO  core.TestListener - ExtentReports initialized. Report will be saved to: /Users/muhamad.rizki/bootcamp/batch-4-qa/reports/extent-report_2026-05-09_14-56-58.html
+2026-05-09 14:57:00.747 [Test worker] INFO  core.TestListener - ---------- Test Started: testLoginSuccess ----------
+2026-05-09 14:57:07.908 [Test worker] INFO  core.TestListener - Test PASSED: testLoginSuccess (Duration: 7161ms)
+2026-05-09 14:57:08.151 [Test worker] INFO  core.TestListener - ========== Test Suite Finished: LoginTests ==========
+2026-05-09 14:57:08.152 [Test worker] INFO  core.TestListener - Total tests: 1, Passed: 1, Failed: 0, Skipped: 0
+2026-05-09 14:57:08.311 [Test worker] INFO  core.TestListener - ExtentReports flushed successfully
+2026-05-09 15:03:17.941 [Test worker] INFO  core.TestListener - ========== Test Suite Started: LoginTests ==========
+2026-05-09 15:03:18.016 [Test worker] INFO  core.TestListener - ExtentReports initialized. Report will be saved to: /Users/muhamad.rizki/bootcamp/batch-4-qa/reports/extent-report_2026-05-09_15-03-17.html
+2026-05-09 15:03:24.320 [Test worker] INFO  core.TestListener - ---------- Test Started: testLoginSuccess ----------
+2026-05-09 15:03:26.758 [Test worker] WARN  core.TestListener - Test SKIPPED: testLoginSuccess
+2026-05-09 15:03:29.787 [Test worker] INFO  core.TestListener - ---------- Test Started: testLoginSuccess ----------
+2026-05-09 15:04:25.114 [Test worker] INFO  core.TestListener - ========== Test Suite Started: LoginTests ==========
+2026-05-09 15:04:25.209 [Test worker] INFO  core.TestListener - ExtentReports initialized. Report will be saved to: /Users/muhamad.rizki/bootcamp/batch-4-qa/reports/extent-report_2026-05-09_15-04-25.html
+2026-05-09 15:04:30.945 [Test worker] INFO  core.TestListener - ---------- Test Started: testLoginSuccess ----------
+2026-05-09 15:04:35.248 [Test worker] INFO  core.TestListener - Test PASSED: testLoginSuccess (Duration: 4304ms)
+2026-05-09 15:04:44.240 [Test worker] INFO  core.TestListener - ---------- Test Started: testLoginFailed ----------
+2026-05-09 15:04:49.429 [Test worker] INFO  core.TestListener - Test PASSED: testLoginFailed (Duration: 5190ms)
+2026-05-09 15:04:49.583 [Test worker] INFO  core.TestListener - ========== Test Suite Finished: LoginTests ==========
+2026-05-09 15:04:49.583 [Test worker] INFO  core.TestListener - Total tests: 2, Passed: 2, Failed: 0, Skipped: 0
+2026-05-09 15:04:49.748 [Test worker] INFO  core.TestListener - ExtentReports flushed successfully
+2026-05-09 15:25:16.431 [Test worker] INFO  core.TestListener - ========== Test Suite Started: LoginTests ==========
+2026-05-09 15:25:16.508 [Test worker] INFO  core.TestListener - ExtentReports initialized. Report will be saved to: /Users/muhamad.rizki/bootcamp/batch-4-qa/reports/extent-report_2026-05-09_15-25-16.html
+2026-05-09 15:25:22.213 [Test worker] INFO  core.TestListener - ---------- Test Started: testLoginSuccess ----------
+2026-05-09 15:25:26.632 [Test worker] INFO  core.TestListener - Test PASSED: testLoginSuccess (Duration: 4419ms)
+2026-05-09 15:25:30.760 [Test worker] INFO  core.TestListener - ---------- Test Started: testLoginFailed ----------
+2026-05-09 15:25:34.809 [Test worker] INFO  core.TestListener - Test PASSED: testLoginFailed (Duration: 4048ms)
+2026-05-09 15:25:35.101 [Test worker] INFO  core.TestListener - ========== Test Suite Finished: LoginTests ==========
+2026-05-09 15:25:35.102 [Test worker] INFO  core.TestListener - Total tests: 2, Passed: 2, Failed: 0, Skipped: 0
+2026-05-09 15:25:35.269 [Test worker] INFO  core.TestListener - ExtentReports flushed successfully
+2026-05-16 13:03:28.939 [TestNG-tests-1] INFO  core.TestListener - ========== Test Suite Started: BookstoreLoginTests ==========
+2026-05-16 13:03:28.939 [TestNG-tests-1] INFO  core.TestListener - ========== Test Suite Started: BookstoreLoginTests ==========
+2026-05-16 13:03:28.938 [TestNG-tests-2] INFO  core.TestListener - ========== Test Suite Started: SaucedemoLoginTests ==========
+2026-05-16 13:03:28.939 [TestNG-tests-2] INFO  core.TestListener - ========== Test Suite Started: SaucedemoLoginTests ==========
+2026-05-16 13:03:28.950 [TestNG-tests-1] INFO  core.TestListener - ========== Test Suite Started: BookstoreLoginTests ==========
+2026-05-16 13:03:28.950 [TestNG-tests-2] INFO  core.TestListener - ========== Test Suite Started: SaucedemoLoginTests ==========
+2026-05-16 13:03:29.016 [TestNG-tests-2] INFO  core.TestListener - ExtentReports initialized. Report will be saved to: /Users/muhamad.rizki/bootcamp/batch-4-qa/reports/extent-report_2026-05-16_13-03-28.html
+2026-05-16 13:03:29.016 [TestNG-tests-1] INFO  core.TestListener - ExtentReports initialized. Report will be saved to: /Users/muhamad.rizki/bootcamp/batch-4-qa/reports/extent-report_2026-05-16_13-03-28.html
+2026-05-16 13:03:29.018 [TestNG-tests-1] INFO  core.TestListener - ExtentReports initialized. Report will be saved to: /Users/muhamad.rizki/bootcamp/batch-4-qa/reports/extent-report_2026-05-16_13-03-28.html
+2026-05-16 13:03:29.018 [TestNG-tests-2] INFO  core.TestListener - ExtentReports initialized. Report will be saved to: /Users/muhamad.rizki/bootcamp/batch-4-qa/reports/extent-report_2026-05-16_13-03-28.html
+2026-05-16 13:03:29.019 [TestNG-tests-1] INFO  core.TestListener - ExtentReports initialized. Report will be saved to: /Users/muhamad.rizki/bootcamp/batch-4-qa/reports/extent-report_2026-05-16_13-03-28.html
+2026-05-16 13:03:29.019 [TestNG-tests-2] INFO  core.TestListener - ExtentReports initialized. Report will be saved to: /Users/muhamad.rizki/bootcamp/batch-4-qa/reports/extent-report_2026-05-16_13-03-28.html
+2026-05-16 13:03:50.478 [TestNG-tests-1] INFO  core.TestListener - ---------- Test Started: testLoginSuccess ----------
+2026-05-16 13:03:50.545 [TestNG-tests-1] INFO  core.TestListener - ---------- Test Started: testLoginSuccess ----------
+2026-05-16 13:03:57.111 [TestNG-tests-1] INFO  core.TestListener - ---------- Test Started: testLoginSuccess ----------
+2026-05-16 13:03:59.791 [TestNG-tests-2] INFO  core.TestListener - ---------- Test Started: testLogin ----------
+2026-05-16 13:03:59.794 [TestNG-tests-2] INFO  saucedemo.LoginTests - Memulai test login dengan credential standard user
+2026-05-16 13:03:59.811 [TestNG-tests-2] INFO  saucedemo.LoginTests - User login menggunakan credential standard user
+2026-05-16 13:04:00.108 [TestNG-tests-2] INFO  core.TestListener - ---------- Test Started: testLogin ----------
+2026-05-16 13:04:00.137 [TestNG-tests-2] INFO  saucedemo.LoginTests - Memulai test login dengan credential standard user
+2026-05-16 13:04:00.152 [TestNG-tests-2] INFO  saucedemo.LoginTests - User login menggunakan credential standard user
+2026-05-16 13:04:00.182 [TestNG-tests-2] INFO  core.TestListener - ---------- Test Started: testLogin ----------
+2026-05-16 13:04:00.222 [TestNG-tests-2] INFO  saucedemo.LoginTests - Memulai test login dengan credential standard user
+2026-05-16 13:04:00.278 [TestNG-tests-2] INFO  saucedemo.LoginTests - User login menggunakan credential standard user
+2026-05-16 13:04:01.859 [TestNG-tests-1] WARN  core.TestListener - Test SKIPPED: testLoginSuccess
+2026-05-16 13:04:03.983 [TestNG-tests-1] INFO  core.TestListener - Test PASSED: testLoginSuccess (Duration: 13437ms)
+2026-05-16 13:04:06.054 [TestNG-tests-1] INFO  core.TestListener - ---------- Test Started: testLoginSuccess ----------
+2026-05-16 13:04:08.905 [TestNG-tests-1] INFO  core.TestListener - Test PASSED: testLoginSuccess (Duration: 11791ms)
+2026-05-16 13:04:10.220 [TestNG-tests-2] WARN  core.TestListener - Test SKIPPED: testLogin
+2026-05-16 13:04:10.419 [TestNG-tests-2] WARN  core.TestListener - Test SKIPPED: testLogin
+2026-05-16 13:04:10.610 [TestNG-tests-2] WARN  core.TestListener - Test SKIPPED: testLogin
+2026-05-16 13:04:11.200 [TestNG-tests-1] INFO  core.TestListener - ---------- Test Started: testLoginFailed ----------
+2026-05-16 13:04:11.989 [TestNG-tests-1] WARN  core.TestListener - Test SKIPPED: testLoginSuccess
+2026-05-16 13:04:12.249 [TestNG-tests-1] INFO  core.TestListener - ---------- Test Started: testLoginFailed ----------
+2026-05-16 13:04:14.828 [TestNG-tests-1] INFO  core.TestListener - ---------- Test Started: testLoginSuccess ----------
+2026-05-16 13:04:15.960 [TestNG-tests-1] INFO  core.TestListener - Test PASSED: testLoginFailed (Duration: 3712ms)
+2026-05-16 13:04:16.114 [TestNG-tests-1] INFO  core.TestListener - ========== Test Suite Finished: BookstoreLoginTests ==========
+2026-05-16 13:04:16.114 [TestNG-tests-1] INFO  core.TestListener - Total tests: 2, Passed: 2, Failed: 0, Skipped: 0
+2026-05-16 13:04:16.333 [TestNG-tests-1] INFO  core.TestListener - ExtentReports flushed successfully
+2026-05-16 13:04:19.845 [TestNG-tests-2] INFO  core.TestListener - ---------- Test Started: testLogin ----------
+2026-05-16 13:04:19.848 [TestNG-tests-2] INFO  saucedemo.LoginTests - Memulai test login dengan credential standard user
+2026-05-16 13:04:19.849 [TestNG-tests-2] INFO  saucedemo.LoginTests - User login menggunakan credential standard user
+2026-05-16 13:04:20.251 [TestNG-tests-2] INFO  core.TestListener - ---------- Test Started: testLogin ----------
+2026-05-16 13:04:20.263 [TestNG-tests-2] INFO  saucedemo.LoginTests - Memulai test login dengan credential standard user
+2026-05-16 13:04:20.263 [TestNG-tests-2] INFO  saucedemo.LoginTests - User login menggunakan credential standard user
+2026-05-16 13:04:22.329 [TestNG-tests-1] ERROR core.TestListener - Test FAILED: testLoginSuccess
+2026-05-16 13:04:22.332 [TestNG-tests-1] ERROR core.TestListener - Failure reason: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='welcome-message']"}
+  (Session info: chrome=148.0.7778.168)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '26.2', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [448ee751a961171a9ea7113b9e5d2382, findElement {using=xpath, value=//*[@id='welcome-message']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 148.0.7778.168, chrome: {chromedriverVersion: 148.0.7778.167 (65db666ac2c..., userDataDir: /var/folders/s7/rkmw7lx17zl...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57435}, goog:processID: 18604, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:57435/devtoo..., se:cdpVersion: 148.0.7778.168, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 448ee751a961171a9ea7113b9e5d2382
+2026-05-16 13:04:22.955 [TestNG-tests-1] INFO  core.TestListener - Test PASSED: testLoginFailed (Duration: 11761ms)
+2026-05-16 13:04:23.116 [TestNG-tests-1] INFO  core.TestListener - ========== Test Suite Finished: BookstoreLoginTests ==========
+2026-05-16 13:04:23.116 [TestNG-tests-1] INFO  core.TestListener - Total tests: 2, Passed: 2, Failed: 0, Skipped: 0
+2026-05-16 13:04:23.285 [TestNG-tests-1] INFO  core.TestListener - ExtentReports flushed successfully
+2026-05-16 13:04:28.175 [TestNG-tests-1] INFO  core.TestListener - Screenshot saved: /Users/muhamad.rizki/bootcamp/batch-4-qa/reports/screenshots/testLoginSuccess_20260516_130422.png
+2026-05-16 13:04:28.183 [TestNG-tests-1] INFO  core.TestListener - Screenshot captured: screenshots/testLoginSuccess_20260516_130422.png
+2026-05-16 13:04:30.125 [TestNG-tests-2] WARN  core.TestListener - Test SKIPPED: testLogin
+2026-05-16 13:04:30.519 [TestNG-tests-2] WARN  core.TestListener - Test SKIPPED: testLogin
+2026-05-16 13:04:33.552 [TestNG-tests-2] INFO  core.TestListener - ---------- Test Started: testLogin ----------
+2026-05-16 13:04:33.552 [TestNG-tests-2] INFO  saucedemo.LoginTests - Memulai test login dengan credential standard user
+2026-05-16 13:04:33.552 [TestNG-tests-2] INFO  saucedemo.LoginTests - User login menggunakan credential standard user
+2026-05-16 13:04:34.664 [TestNG-tests-1] INFO  core.TestListener - ---------- Test Started: testLoginFailed ----------
+2026-05-16 13:04:38.206 [TestNG-tests-2] INFO  core.TestListener - ---------- Test Started: testLogin ----------
+2026-05-16 13:04:38.207 [TestNG-tests-2] INFO  saucedemo.LoginTests - Memulai test login dengan credential standard user
+2026-05-16 13:04:38.208 [TestNG-tests-2] INFO  saucedemo.LoginTests - User login menggunakan credential standard user
+2026-05-16 13:04:39.703 [TestNG-tests-2] INFO  core.TestListener - ---------- Test Started: testLogin ----------
+2026-05-16 13:04:39.705 [TestNG-tests-2] INFO  saucedemo.LoginTests - Memulai test login dengan credential standard user
+2026-05-16 13:04:39.706 [TestNG-tests-2] INFO  saucedemo.LoginTests - User login menggunakan credential standard user
+2026-05-16 13:04:43.809 [TestNG-tests-2] WARN  core.TestListener - Test SKIPPED: testLogin
+2026-05-16 13:04:48.314 [TestNG-tests-1] INFO  core.TestListener - Test PASSED: testLoginFailed (Duration: 13650ms)
+2026-05-16 13:04:48.432 [TestNG-tests-2] ERROR core.TestListener - Test FAILED: testLogin
+2026-05-16 13:04:48.432 [TestNG-tests-2] ERROR core.TestListener - Failure reason: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.id: user-name' (tried for 10 second(s) with 500 milliseconds interval)
+2026-05-16 13:04:48.517 [TestNG-tests-1] INFO  core.TestListener - ========== Test Suite Finished: BookstoreLoginTests ==========
+2026-05-16 13:04:48.518 [TestNG-tests-1] INFO  core.TestListener - Total tests: 2, Passed: 1, Failed: 1, Skipped: 2
+2026-05-16 13:04:48.902 [TestNG-tests-1] INFO  core.TestListener - ExtentReports flushed successfully
+2026-05-16 13:04:48.974 [TestNG-tests-2] INFO  core.TestListener - Screenshot saved: /Users/muhamad.rizki/bootcamp/batch-4-qa/reports/screenshots/testLogin_20260516_130448.png
+2026-05-16 13:04:48.975 [TestNG-tests-2] INFO  core.TestListener - Screenshot captured: screenshots/testLogin_20260516_130448.png
+2026-05-16 13:04:49.137 [TestNG-tests-2] INFO  core.TestListener - ========== Test Suite Finished: SaucedemoLoginTests ==========
+2026-05-16 13:04:49.138 [TestNG-tests-2] INFO  core.TestListener - Total tests: 1, Passed: 0, Failed: 1, Skipped: 2
+2026-05-16 13:04:49.173 [TestNG-tests-2] INFO  core.TestListener - ExtentReports flushed successfully
+2026-05-16 13:04:49.935 [TestNG-tests-2] ERROR core.TestListener - Test FAILED: testLogin
+2026-05-16 13:04:49.935 [TestNG-tests-2] ERROR core.TestListener - Failure reason: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.id: user-name' (tried for 10 second(s) with 500 milliseconds interval)
+2026-05-16 13:04:50.191 [TestNG-tests-2] INFO  core.TestListener - Screenshot saved: /Users/muhamad.rizki/bootcamp/batch-4-qa/reports/screenshots/testLogin_20260516_130449.png
+2026-05-16 13:04:50.193 [TestNG-tests-2] INFO  core.TestListener - Screenshot captured: screenshots/testLogin_20260516_130449.png
+2026-05-16 13:04:51.185 [TestNG-tests-2] INFO  core.TestListener - ---------- Test Started: testLogin ----------
+2026-05-16 13:04:51.186 [TestNG-tests-2] INFO  saucedemo.LoginTests - Memulai test login dengan credential standard user
+2026-05-16 13:04:51.186 [TestNG-tests-2] INFO  saucedemo.LoginTests - User login menggunakan credential standard user
+2026-05-16 13:05:01.419 [TestNG-tests-2] ERROR core.TestListener - Test FAILED: testLogin
+2026-05-16 13:05:01.420 [TestNG-tests-2] ERROR core.TestListener - Failure reason: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.id: user-name' (tried for 10 second(s) with 500 milliseconds interval)
+2026-05-16 13:05:01.821 [TestNG-tests-2] INFO  core.TestListener - Screenshot saved: /Users/muhamad.rizki/bootcamp/batch-4-qa/reports/screenshots/testLogin_20260516_130501.png
+2026-05-16 13:05:01.824 [TestNG-tests-2] INFO  core.TestListener - Screenshot captured: screenshots/testLogin_20260516_130501.png
+2026-05-16 13:05:02.146 [TestNG-tests-2] INFO  core.TestListener - ========== Test Suite Finished: SaucedemoLoginTests ==========
+2026-05-16 13:05:02.148 [TestNG-tests-2] INFO  core.TestListener - Total tests: 1, Passed: 0, Failed: 1, Skipped: 2
+2026-05-16 13:05:02.163 [TestNG-tests-2] INFO  core.TestListener - ExtentReports flushed successfully
+2026-05-16 13:05:10.400 [TestNG-tests-2] INFO  core.TestListener - ========== Test Suite Finished: SaucedemoLoginTests ==========
+2026-05-16 13:05:10.403 [TestNG-tests-2] INFO  core.TestListener - Total tests: 1, Passed: 0, Failed: 1, Skipped: 2
+2026-05-16 13:05:10.426 [TestNG-tests-2] INFO  core.TestListener - ExtentReports flushed successfully
+2026-05-16 13:05:34.694 [TestNG-tests-1] INFO  core.TestListener - ========== Test Suite Started: BookstoreLoginTests ==========
+2026-05-16 13:05:34.697 [TestNG-tests-1] INFO  core.TestListener - ========== Test Suite Started: BookstoreLoginTests ==========
+2026-05-16 13:05:34.707 [TestNG-tests-1] INFO  core.TestListener - ========== Test Suite Started: BookstoreLoginTests ==========
+2026-05-16 13:05:34.772 [TestNG-tests-1] INFO  core.TestListener - ExtentReports initialized. Report will be saved to: /Users/muhamad.rizki/bootcamp/batch-4-qa/reports/extent-report_2026-05-16_13-05-34.html
+2026-05-16 13:05:34.772 [TestNG-tests-1] INFO  core.TestListener - ExtentReports initialized. Report will be saved to: /Users/muhamad.rizki/bootcamp/batch-4-qa/reports/extent-report_2026-05-16_13-05-34.html
+2026-05-16 13:05:34.772 [TestNG-tests-1] INFO  core.TestListener - ExtentReports initialized. Report will be saved to: /Users/muhamad.rizki/bootcamp/batch-4-qa/reports/extent-report_2026-05-16_13-05-34.html
+2026-05-16 13:05:42.153 [TestNG-tests-1] INFO  core.TestListener - ---------- Test Started: testLoginSuccess ----------
+2026-05-16 13:05:42.245 [TestNG-tests-1] INFO  core.TestListener - ---------- Test Started: testLoginSuccess ----------
+2026-05-16 13:05:42.254 [TestNG-tests-1] INFO  core.TestListener - ---------- Test Started: testLoginSuccess ----------
+2026-05-16 13:05:46.010 [TestNG-tests-1] INFO  core.TestListener - Test PASSED: testLoginSuccess (Duration: 3765ms)
+2026-05-16 13:05:46.648 [TestNG-tests-1] INFO  core.TestListener - Test PASSED: testLoginSuccess (Duration: 4394ms)
+2026-05-16 13:05:48.123 [TestNG-tests-1] INFO  core.TestListener - Test PASSED: testLoginSuccess (Duration: 5970ms)
+2026-05-16 13:05:51.912 [TestNG-tests-1] INFO  core.TestListener - ---------- Test Started: testLoginFailed ----------
+2026-05-16 13:05:53.933 [TestNG-tests-1] INFO  core.TestListener - ---------- Test Started: testLoginFailed ----------
+2026-05-16 13:05:55.349 [TestNG-tests-1] INFO  core.TestListener - Test PASSED: testLoginFailed (Duration: 3437ms)
+2026-05-16 13:05:55.523 [TestNG-tests-1] INFO  core.TestListener - ========== Test Suite Finished: BookstoreLoginTests ==========
+2026-05-16 13:05:55.524 [TestNG-tests-1] INFO  core.TestListener - Total tests: 2, Passed: 2, Failed: 0, Skipped: 0
+2026-05-16 13:05:55.591 [TestNG-tests-1] INFO  core.TestListener - ---------- Test Started: testLoginFailed ----------
+2026-05-16 13:05:55.671 [TestNG-tests-1] INFO  core.TestListener - ExtentReports flushed successfully
+2026-05-16 13:06:02.480 [TestNG-tests-1] INFO  core.TestListener - Test PASSED: testLoginFailed (Duration: 6889ms)
+2026-05-16 13:06:02.625 [TestNG-tests-1] INFO  core.TestListener - ========== Test Suite Finished: BookstoreLoginTests ==========
+2026-05-16 13:06:02.626 [TestNG-tests-1] INFO  core.TestListener - Total tests: 2, Passed: 2, Failed: 0, Skipped: 0
+2026-05-16 13:06:02.752 [TestNG-tests-1] INFO  core.TestListener - ExtentReports flushed successfully
+2026-05-16 13:06:07.272 [TestNG-tests-1] INFO  core.TestListener - Test PASSED: testLoginFailed (Duration: 13339ms)
+2026-05-16 13:06:07.413 [TestNG-tests-1] INFO  core.TestListener - ========== Test Suite Finished: BookstoreLoginTests ==========
+2026-05-16 13:06:07.414 [TestNG-tests-1] INFO  core.TestListener - Total tests: 2, Passed: 2, Failed: 0, Skipped: 0
+2026-05-16 13:06:07.536 [TestNG-tests-1] INFO  core.TestListener - ExtentReports flushed successfully
+2026-05-16 13:06:45.312 [TestNG-tests-1] INFO  core.TestListener - ========== Test Suite Started: BookstoreLoginTests ==========
+2026-05-16 13:06:45.322 [TestNG-tests-1] INFO  core.TestListener - ========== Test Suite Started: BookstoreLoginTests ==========
+2026-05-16 13:06:45.330 [TestNG-tests-1] INFO  core.TestListener - ========== Test Suite Started: BookstoreLoginTests ==========
+2026-05-16 13:06:45.386 [TestNG-tests-1] INFO  core.TestListener - ExtentReports initialized. Report will be saved to: /Users/muhamad.rizki/bootcamp/batch-4-qa/reports/extent-report_2026-05-16_13-06-45.html
+2026-05-16 13:06:45.389 [TestNG-tests-1] INFO  core.TestListener - ExtentReports initialized. Report will be saved to: /Users/muhamad.rizki/bootcamp/batch-4-qa/reports/extent-report_2026-05-16_13-06-45.html
+2026-05-16 13:06:45.394 [TestNG-tests-1] INFO  core.TestListener - ExtentReports initialized. Report will be saved to: /Users/muhamad.rizki/bootcamp/batch-4-qa/reports/extent-report_2026-05-16_13-06-45.html
+2026-05-16 13:06:53.741 [TestNG-tests-1] INFO  core.TestListener - ---------- Test Started: testLoginSuccess ----------
+2026-05-16 13:06:54.303 [TestNG-tests-1] INFO  core.TestListener - ---------- Test Started: testLoginSuccess ----------
+2026-05-16 13:06:54.707 [TestNG-tests-1] INFO  core.TestListener - ---------- Test Started: testLoginSuccess ----------
+2026-05-16 13:06:58.038 [TestNG-tests-1] INFO  core.TestListener - Test PASSED: testLoginSuccess (Duration: 3332ms)
+2026-05-16 13:06:59.222 [TestNG-tests-1] INFO  core.TestListener - Test PASSED: testLoginSuccess (Duration: 4919ms)
+2026-05-16 13:07:03.626 [TestNG-tests-1] INFO  core.TestListener - Test PASSED: testLoginSuccess (Duration: 9885ms)
+2026-05-16 13:07:04.074 [TestNG-tests-1] INFO  core.TestListener - ---------- Test Started: testLoginFailed ----------
+2026-05-16 13:07:05.532 [TestNG-tests-1] INFO  core.TestListener - ---------- Test Started: testLoginFailed ----------
+2026-05-16 13:07:08.910 [TestNG-tests-1] INFO  core.TestListener - Test PASSED: testLoginFailed (Duration: 3378ms)
+2026-05-16 13:07:09.056 [TestNG-tests-1] INFO  core.TestListener - ========== Test Suite Finished: BookstoreLoginTests ==========
+2026-05-16 13:07:09.056 [TestNG-tests-1] INFO  core.TestListener - Total tests: 2, Passed: 2, Failed: 0, Skipped: 0
+2026-05-16 13:07:09.191 [TestNG-tests-1] INFO  core.TestListener - ExtentReports flushed successfully
+2026-05-16 13:07:10.120 [TestNG-tests-1] INFO  core.TestListener - ---------- Test Started: testLoginFailed ----------
+2026-05-16 13:07:14.751 [TestNG-tests-1] INFO  core.TestListener - Test PASSED: testLoginFailed (Duration: 4632ms)
+2026-05-16 13:07:14.917 [TestNG-tests-1] INFO  core.TestListener - ========== Test Suite Finished: BookstoreLoginTests ==========
+2026-05-16 13:07:14.919 [TestNG-tests-1] INFO  core.TestListener - Total tests: 2, Passed: 2, Failed: 0, Skipped: 0
+2026-05-16 13:07:15.098 [TestNG-tests-1] INFO  core.TestListener - ExtentReports flushed successfully
+2026-05-16 13:09:30.083 [TestNG-tests-1] INFO  core.TestListener - ========== Test Suite Started: BookstoreLoginTests ==========
+2026-05-16 13:09:30.083 [TestNG-tests-1] INFO  core.TestListener - ========== Test Suite Started: BookstoreLoginTests ==========
+2026-05-16 13:09:30.083 [TestNG-tests-1] INFO  core.TestListener - ========== Test Suite Started: BookstoreLoginTests ==========
+2026-05-16 13:09:30.151 [TestNG-tests-1] INFO  core.TestListener - ExtentReports initialized. Report will be saved to: /Users/muhamad.rizki/bootcamp/batch-4-qa/reports/extent-report_2026-05-16_13-09-30.html
+2026-05-16 13:09:30.152 [TestNG-tests-1] INFO  core.TestListener - ExtentReports initialized. Report will be saved to: /Users/muhamad.rizki/bootcamp/batch-4-qa/reports/extent-report_2026-05-16_13-09-30.html
+2026-05-16 13:09:30.155 [TestNG-tests-1] INFO  core.TestListener - ExtentReports initialized. Report will be saved to: /Users/muhamad.rizki/bootcamp/batch-4-qa/reports/extent-report_2026-05-16_13-09-30.html
+2026-05-16 13:09:38.852 [TestNG-tests-1] INFO  core.TestListener - ---------- Test Started: testLoginSuccess ----------
+2026-05-16 13:09:38.960 [TestNG-tests-1] INFO  core.TestListener - ---------- Test Started: testLoginSuccess ----------
+2026-05-16 13:09:38.988 [TestNG-tests-1] INFO  core.TestListener - ---------- Test Started: testLoginSuccess ----------
+2026-05-16 13:09:42.003 [TestNG-tests-1] INFO  core.TestListener - Test PASSED: testLoginSuccess (Duration: 3151ms)
+2026-05-16 13:09:42.890 [TestNG-tests-1] INFO  core.TestListener - Test PASSED: testLoginSuccess (Duration: 3930ms)
+2026-05-16 13:09:45.990 [TestNG-tests-1] INFO  core.TestListener - Test PASSED: testLoginSuccess (Duration: 7003ms)
+2026-05-16 13:09:49.328 [TestNG-tests-1] INFO  core.TestListener - ---------- Test Started: testLoginFailed ----------
+2026-05-16 13:09:49.802 [TestNG-tests-1] INFO  core.TestListener - ---------- Test Started: testLoginFailed ----------
+2026-05-16 13:09:52.277 [TestNG-tests-1] INFO  core.TestListener - Test PASSED: testLoginFailed (Duration: 2949ms)
+2026-05-16 13:09:52.431 [TestNG-tests-1] INFO  core.TestListener - ========== Test Suite Finished: BookstoreLoginTests ==========
+2026-05-16 13:09:52.431 [TestNG-tests-1] INFO  core.TestListener - Total tests: 2, Passed: 2, Failed: 0, Skipped: 0
+2026-05-16 13:09:52.580 [TestNG-tests-1] INFO  core.TestListener - ExtentReports flushed successfully
+2026-05-16 13:09:53.363 [TestNG-tests-1] INFO  core.TestListener - ---------- Test Started: testLoginFailed ----------
+2026-05-16 13:09:54.597 [TestNG-tests-1] INFO  core.TestListener - Test PASSED: testLoginFailed (Duration: 4796ms)
+2026-05-16 13:09:54.784 [TestNG-tests-1] INFO  core.TestListener - ========== Test Suite Finished: BookstoreLoginTests ==========
+2026-05-16 13:09:54.784 [TestNG-tests-1] INFO  core.TestListener - Total tests: 2, Passed: 2, Failed: 0, Skipped: 0
+2026-05-16 13:09:54.963 [TestNG-tests-1] INFO  core.TestListener - ExtentReports flushed successfully
+2026-05-16 13:09:58.287 [TestNG-tests-1] INFO  core.TestListener - Test PASSED: testLoginFailed (Duration: 4926ms)
+2026-05-16 13:09:58.436 [TestNG-tests-1] INFO  core.TestListener - ========== Test Suite Finished: BookstoreLoginTests ==========
+2026-05-16 13:09:58.436 [TestNG-tests-1] INFO  core.TestListener - Total tests: 2, Passed: 2, Failed: 0, Skipped: 0
+2026-05-16 13:09:58.602 [TestNG-tests-1] INFO  core.TestListener - ExtentReports flushed successfully
+2026-05-16 15:26:15.345 [TestNG-tests-2] INFO  core.TestListener - ========== Test Suite Started: BookstoreHomePageTests ==========
+2026-05-16 15:26:15.346 [TestNG-tests-1] INFO  core.TestListener - ========== Test Suite Started: BookstoreLoginTests ==========
+2026-05-16 15:26:15.357 [TestNG-tests-2] INFO  core.TestListener - ========== Test Suite Started: BookstoreHomePageTests ==========
+2026-05-16 15:26:15.357 [TestNG-tests-1] INFO  core.TestListener - ========== Test Suite Started: BookstoreLoginTests ==========
+2026-05-16 15:26:15.372 [TestNG-tests-1] INFO  core.TestListener - ========== Test Suite Started: BookstoreLoginTests ==========
+2026-05-16 15:26:15.372 [TestNG-tests-2] INFO  core.TestListener - ========== Test Suite Started: BookstoreHomePageTests ==========
+2026-05-16 15:26:15.386 [TestNG-tests-2] INFO  core.TestListener - ========== Test Suite Started: BookstoreHomePageTests ==========
+2026-05-16 15:26:15.386 [TestNG-tests-1] INFO  core.TestListener - ========== Test Suite Started: BookstoreLoginTests ==========
+2026-05-16 15:26:15.449 [TestNG-tests-1] INFO  core.TestListener - ExtentReports initialized. Report will be saved to: /Users/muhamad.rizki/bootcamp/batch-4-qa/reports/extent-report_2026-05-16_15-26-15.html
+2026-05-16 15:26:15.450 [TestNG-tests-2] INFO  core.TestListener - ExtentReports initialized. Report will be saved to: /Users/muhamad.rizki/bootcamp/batch-4-qa/reports/extent-report_2026-05-16_15-26-15.html
+2026-05-16 15:26:15.450 [TestNG-tests-2] INFO  core.TestListener - ExtentReports initialized. Report will be saved to: /Users/muhamad.rizki/bootcamp/batch-4-qa/reports/extent-report_2026-05-16_15-26-15.html
+2026-05-16 15:26:15.451 [TestNG-tests-1] INFO  core.TestListener - ExtentReports initialized. Report will be saved to: /Users/muhamad.rizki/bootcamp/batch-4-qa/reports/extent-report_2026-05-16_15-26-15.html
+2026-05-16 15:26:15.465 [TestNG-tests-2] INFO  core.TestListener - ExtentReports initialized. Report will be saved to: /Users/muhamad.rizki/bootcamp/batch-4-qa/reports/extent-report_2026-05-16_15-26-15.html
+2026-05-16 15:26:15.465 [TestNG-tests-1] INFO  core.TestListener - ExtentReports initialized. Report will be saved to: /Users/muhamad.rizki/bootcamp/batch-4-qa/reports/extent-report_2026-05-16_15-26-15.html
+2026-05-16 15:26:15.470 [TestNG-tests-2] INFO  core.TestListener - ExtentReports initialized. Report will be saved to: /Users/muhamad.rizki/bootcamp/batch-4-qa/reports/extent-report_2026-05-16_15-26-15.html
+2026-05-16 15:26:15.472 [TestNG-tests-1] INFO  core.TestListener - ExtentReports initialized. Report will be saved to: /Users/muhamad.rizki/bootcamp/batch-4-qa/reports/extent-report_2026-05-16_15-26-15.html
+2026-05-16 15:26:22.706 [TestNG-tests-2] INFO  core.TestListener - ---------- Test Started: testVerifyHomepage ----------
+2026-05-16 15:26:22.730 [TestNG-tests-2] INFO  core.TestListener - ---------- Test Started: testVerifyHomepage ----------
+2026-05-16 15:26:22.750 [TestNG-tests-1] INFO  core.TestListener - ---------- Test Started: testLoginSuccess ----------
+2026-05-16 15:26:39.292 [TestNG-tests-1] INFO  core.TestListener - ---------- Test Started: testLoginSuccess ----------
+2026-05-16 15:26:39.685 [TestNG-tests-2] INFO  core.TestListener - ---------- Test Started: testVerifyHomepage ----------
+2026-05-16 15:26:39.720 [TestNG-tests-2] INFO  core.TestListener - ---------- Test Started: testVerifyHomepage ----------
+2026-05-16 15:26:40.143 [TestNG-tests-1] INFO  core.TestListener - ---------- Test Started: testLoginSuccess ----------
+2026-05-16 15:26:41.192 [TestNG-tests-1] INFO  core.TestListener - ---------- Test Started: testLoginSuccess ----------
+2026-05-16 15:26:48.497 [TestNG-tests-1] INFO  core.TestListener - Test PASSED: testLoginSuccess (Duration: 9204ms)
+2026-05-16 15:26:49.563 [TestNG-tests-2] WARN  core.TestListener - Test SKIPPED: testVerifyHomepage
+2026-05-16 15:26:49.777 [TestNG-tests-1] INFO  core.TestListener - Test PASSED: testLoginSuccess (Duration: 9634ms)
+2026-05-16 15:26:50.321 [TestNG-tests-1] INFO  core.TestListener - Test PASSED: testLoginSuccess (Duration: 27557ms)
+2026-05-16 15:26:50.506 [TestNG-tests-2] WARN  core.TestListener - Test SKIPPED: testVerifyHomepage
+2026-05-16 15:26:51.467 [TestNG-tests-1] INFO  core.TestListener - Test PASSED: testLoginSuccess (Duration: 10274ms)
+2026-05-16 15:26:53.821 [TestNG-tests-2] WARN  core.TestListener - Test SKIPPED: testVerifyHomepage
+2026-05-16 15:26:54.158 [TestNG-tests-2] WARN  core.TestListener - Test SKIPPED: testVerifyHomepage
+2026-05-16 15:26:55.447 [TestNG-tests-2] INFO  core.TestListener - ---------- Test Started: testVerifyHomepage ----------
+2026-05-16 15:26:55.654 [TestNG-tests-1] INFO  core.TestListener - ---------- Test Started: testLoginFailed ----------
+2026-05-16 15:26:59.997 [TestNG-tests-1] INFO  core.TestListener - ---------- Test Started: testLoginFailed ----------
+2026-05-16 15:27:01.749 [TestNG-tests-2] WARN  core.TestListener - Test SKIPPED: testVerifyHomepage
+2026-05-16 15:27:05.996 [TestNG-tests-1] INFO  core.TestListener - ---------- Test Started: testLoginFailed ----------
+2026-05-16 15:27:06.520 [TestNG-tests-2] INFO  core.TestListener - ---------- Test Started: testVerifyHomepage ----------
+2026-05-16 15:27:06.597 [TestNG-tests-1] INFO  core.TestListener - ---------- Test Started: testLoginFailed ----------
+2026-05-16 15:27:06.616 [TestNG-tests-1] WARN  core.TestListener - Test SKIPPED: testLoginFailed
+2026-05-16 15:27:06.861 [TestNG-tests-1] INFO  core.TestListener - Test PASSED: testLoginFailed (Duration: 11207ms)
+2026-05-16 15:27:08.019 [TestNG-tests-2] INFO  core.TestListener - ---------- Test Started: testVerifyHomepage ----------
+2026-05-16 15:27:14.002 [TestNG-tests-1] INFO  core.TestListener - Test PASSED: testLoginFailed (Duration: 14004ms)
+2026-05-16 15:27:14.178 [TestNG-tests-2] WARN  core.TestListener - Test SKIPPED: testVerifyHomepage
+2026-05-16 15:27:16.410 [TestNG-tests-1] INFO  core.TestListener - Test PASSED: testLoginFailed (Duration: 10416ms)
+2026-05-16 15:27:16.855 [TestNG-tests-2] WARN  core.TestListener - Test SKIPPED: testVerifyHomepage
+2026-05-16 15:27:20.720 [TestNG-tests-2] INFO  core.TestListener - ---------- Test Started: testVerifyHomepage ----------
+2026-05-16 15:27:21.800 [TestNG-tests-1] INFO  core.TestListener - ========== Test Suite Finished: BookstoreLoginTests ==========
+2026-05-16 15:27:21.800 [TestNG-tests-1] INFO  core.TestListener - Total tests: 2, Passed: 2, Failed: 0, Skipped: 0
+2026-05-16 15:27:21.993 [TestNG-tests-1] INFO  core.TestListener - ========== Test Suite Finished: BookstoreLoginTests ==========
+2026-05-16 15:27:21.993 [TestNG-tests-1] INFO  core.TestListener - Total tests: 2, Passed: 2, Failed: 0, Skipped: 0
+2026-05-16 15:27:22.008 [TestNG-tests-1] INFO  core.TestListener - ExtentReports flushed successfully
+2026-05-16 15:27:22.220 [TestNG-tests-1] INFO  core.TestListener - ExtentReports flushed successfully
+2026-05-16 15:27:25.722 [TestNG-tests-2] WARN  core.TestListener - Test SKIPPED: testVerifyHomepage
+2026-05-16 15:27:27.211 [TestNG-tests-1] INFO  core.TestListener - ========== Test Suite Finished: BookstoreLoginTests ==========
+2026-05-16 15:27:27.216 [TestNG-tests-1] INFO  core.TestListener - Total tests: 2, Passed: 2, Failed: 0, Skipped: 0
+2026-05-16 15:27:27.583 [TestNG-tests-1] INFO  core.TestListener - ExtentReports flushed successfully
+2026-05-16 15:27:30.142 [TestNG-tests-1] INFO  core.TestListener - ---------- Test Started: testLoginFailed ----------
+2026-05-16 15:27:30.659 [TestNG-tests-2] INFO  core.TestListener - ---------- Test Started: testVerifyHomepage ----------
+2026-05-16 15:27:30.771 [TestNG-tests-2] INFO  core.TestListener - ---------- Test Started: testVerifyHomepage ----------
+2026-05-16 15:27:30.992 [TestNG-tests-2] INFO  core.TestListener - ---------- Test Started: testVerifyHomepage ----------
+2026-05-16 15:27:35.649 [TestNG-tests-2] ERROR core.TestListener - Test FAILED: testVerifyHomepage
+2026-05-16 15:27:35.650 [TestNG-tests-2] ERROR core.TestListener - Failure reason: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='core']/div/div/div[2]/div[2]/div[1]/div"}
+  (Session info: chrome=148.0.7778.168)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '26.2', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [09e2143895e359c02a52933a0b3cc9f2, findElement {value=//*[@id='core']/div/div/div[2]/div[2]/div[1]/div, using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 148.0.7778.168, chrome: {chromedriverVersion: 148.0.7778.167 (65db666ac2c..., userDataDir: /var/folders/s7/rkmw7lx17zl...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65359}, goog:processID: 45586, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:65359/devtoo..., se:cdpVersion: 148.0.7778.168, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 09e2143895e359c02a52933a0b3cc9f2
+2026-05-16 15:27:36.466 [TestNG-tests-2] ERROR core.TestListener - Test FAILED: testVerifyHomepage
+2026-05-16 15:27:36.468 [TestNG-tests-2] ERROR core.TestListener - Failure reason: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='core']/div/div/div[2]/div[2]/div[1]/div"}
+  (Session info: chrome=148.0.7778.168)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '26.2', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ad49bbb280bfb0a1923f443d0d822571, findElement {using=xpath, value=//*[@id='core']/div/div/div[2]/div[2]/div[1]/div}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 148.0.7778.168, chrome: {chromedriverVersion: 148.0.7778.167 (65db666ac2c..., userDataDir: /var/folders/s7/rkmw7lx17zl...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65360}, goog:processID: 45587, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:65360/devtoo..., se:cdpVersion: 148.0.7778.168, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ad49bbb280bfb0a1923f443d0d822571
+2026-05-16 15:27:37.377 [TestNG-tests-2] ERROR core.TestListener - Test FAILED: testVerifyHomepage
+2026-05-16 15:27:37.441 [TestNG-tests-2] ERROR core.TestListener - Failure reason: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='core']/div/div/div[2]/div[2]/div[1]/div"}
+  (Session info: chrome=148.0.7778.168)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '26.2', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f23c81795c8e8792a0a0b83d795c2a48, findElement {value=//*[@id='core']/div/div/div[2]/div[2]/div[1]/div, using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 148.0.7778.168, chrome: {chromedriverVersion: 148.0.7778.167 (65db666ac2c..., userDataDir: /var/folders/s7/rkmw7lx17zl...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65366}, goog:processID: 45595, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:65366/devtoo..., se:cdpVersion: 148.0.7778.168, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f23c81795c8e8792a0a0b83d795c2a48
+2026-05-16 15:27:38.080 [TestNG-tests-2] INFO  core.TestListener - Screenshot saved: /Users/muhamad.rizki/bootcamp/batch-4-qa/reports/screenshots/testVerifyHomepage_20260516_152735.png
+2026-05-16 15:27:38.086 [TestNG-tests-2] INFO  core.TestListener - Screenshot captured: screenshots/testVerifyHomepage_20260516_152735.png
+2026-05-16 15:27:38.210 [TestNG-tests-2] INFO  core.TestListener - Screenshot saved: /Users/muhamad.rizki/bootcamp/batch-4-qa/reports/screenshots/testVerifyHomepage_20260516_152736.png
+2026-05-16 15:27:38.213 [TestNG-tests-2] INFO  core.TestListener - Screenshot captured: screenshots/testVerifyHomepage_20260516_152736.png
+2026-05-16 15:27:38.514 [TestNG-tests-2] INFO  core.TestListener - Screenshot saved: /Users/muhamad.rizki/bootcamp/batch-4-qa/reports/screenshots/testVerifyHomepage_20260516_152737.png
+2026-05-16 15:27:38.516 [TestNG-tests-2] INFO  core.TestListener - Screenshot captured: screenshots/testVerifyHomepage_20260516_152737.png
+2026-05-16 15:27:39.050 [TestNG-tests-1] INFO  core.TestListener - Test PASSED: testLoginFailed (Duration: 8909ms)
+2026-05-16 15:27:42.264 [TestNG-tests-2] INFO  core.TestListener - ========== Test Suite Finished: BookstoreHomePageTests ==========
+2026-05-16 15:27:42.264 [TestNG-tests-2] INFO  core.TestListener - Total tests: 1, Passed: 0, Failed: 1, Skipped: 2
+2026-05-16 15:27:42.276 [TestNG-tests-1] INFO  core.TestListener - ========== Test Suite Finished: BookstoreLoginTests ==========
+2026-05-16 15:27:42.276 [TestNG-tests-1] INFO  core.TestListener - Total tests: 2, Passed: 2, Failed: 0, Skipped: 1
+2026-05-16 15:27:42.601 [TestNG-tests-2] INFO  core.TestListener - ExtentReports flushed successfully
+2026-05-16 15:27:42.625 [TestNG-tests-1] INFO  core.TestListener - ExtentReports flushed successfully
+2026-05-16 15:27:45.335 [TestNG-tests-2] INFO  core.TestListener - ========== Test Suite Finished: BookstoreHomePageTests ==========
+2026-05-16 15:27:45.336 [TestNG-tests-2] INFO  core.TestListener - Total tests: 1, Passed: 0, Failed: 1, Skipped: 2
+2026-05-16 15:27:45.380 [TestNG-tests-2] INFO  core.TestListener - ExtentReports flushed successfully
+2026-05-16 15:27:46.275 [TestNG-tests-2] INFO  core.TestListener - ========== Test Suite Finished: BookstoreHomePageTests ==========
+2026-05-16 15:27:46.275 [TestNG-tests-2] INFO  core.TestListener - Total tests: 1, Passed: 0, Failed: 1, Skipped: 2
+2026-05-16 15:27:46.310 [TestNG-tests-2] INFO  core.TestListener - ExtentReports flushed successfully
+2026-05-16 15:27:47.842 [TestNG-tests-2] INFO  core.TestListener - ---------- Test Started: testVerifyHomepage ----------
+2026-05-16 15:27:55.882 [TestNG-tests-2] INFO  core.TestListener - Test PASSED: testVerifyHomepage (Duration: 8040ms)
+2026-05-16 15:27:59.753 [TestNG-tests-2] INFO  core.TestListener - ========== Test Suite Finished: BookstoreHomePageTests ==========
+2026-05-16 15:27:59.753 [TestNG-tests-2] INFO  core.TestListener - Total tests: 1, Passed: 1, Failed: 0, Skipped: 2
+2026-05-16 15:27:59.768 [TestNG-tests-2] INFO  core.TestListener - ExtentReports flushed successfully
+2026-05-16 15:30:02.304 [TestNG-tests-1] INFO  core.TestListener - ========== Test Suite Started: BookstoreLoginTests ==========
+2026-05-16 15:30:02.304 [TestNG-tests-1] INFO  core.TestListener - ========== Test Suite Started: BookstoreLoginTests ==========
+2026-05-16 15:30:02.305 [TestNG-tests-1] INFO  core.TestListener - ========== Test Suite Started: BookstoreLoginTests ==========
+2026-05-16 15:30:02.314 [TestNG-tests-1] INFO  core.TestListener - ========== Test Suite Started: BookstoreLoginTests ==========
+2026-05-16 15:30:02.407 [TestNG-tests-1] INFO  core.TestListener - ExtentReports initialized. Report will be saved to: /Users/muhamad.rizki/bootcamp/batch-4-qa/reports/extent-report_2026-05-16_15-30-02.html
+2026-05-16 15:30:02.408 [TestNG-tests-1] INFO  core.TestListener - ExtentReports initialized. Report will be saved to: /Users/muhamad.rizki/bootcamp/batch-4-qa/reports/extent-report_2026-05-16_15-30-02.html
+2026-05-16 15:30:02.409 [TestNG-tests-1] INFO  core.TestListener - ExtentReports initialized. Report will be saved to: /Users/muhamad.rizki/bootcamp/batch-4-qa/reports/extent-report_2026-05-16_15-30-02.html
+2026-05-16 15:30:02.409 [TestNG-tests-1] INFO  core.TestListener - ExtentReports initialized. Report will be saved to: /Users/muhamad.rizki/bootcamp/batch-4-qa/reports/extent-report_2026-05-16_15-30-02.html
+2026-05-16 15:30:06.512 [TestNG-tests-1] INFO  core.TestListener - ---------- Test Started: testLoginSuccess ----------
+2026-05-16 15:30:06.513 [TestNG-tests-1] INFO  core.TestListener - ---------- Test Started: testLoginSuccess ----------
+2026-05-16 15:30:12.795 [TestNG-tests-1] INFO  core.TestListener - ---------- Test Started: testLoginSuccess ----------
+2026-05-16 15:30:12.903 [TestNG-tests-1] INFO  core.TestListener - ---------- Test Started: testLoginSuccess ----------
+2026-05-16 15:30:17.022 [TestNG-tests-1] INFO  core.TestListener - Test PASSED: testLoginSuccess (Duration: 4227ms)
+2026-05-16 15:30:17.344 [TestNG-tests-1] INFO  core.TestListener - Test PASSED: testLoginSuccess (Duration: 10831ms)
+2026-05-16 15:30:18.207 [TestNG-tests-1] INFO  core.TestListener - Test PASSED: testLoginSuccess (Duration: 5304ms)
+2026-05-16 15:30:19.503 [TestNG-tests-1] INFO  core.TestListener - Test PASSED: testLoginSuccess (Duration: 12993ms)
+2026-05-16 15:30:19.742 [TestNG-tests-1] INFO  core.TestListener - ---------- Test Started: testLoginFailed ----------
+2026-05-16 15:30:23.412 [TestNG-tests-1] INFO  core.TestListener - ---------- Test Started: testLoginFailed ----------
+2026-05-16 15:30:23.414 [TestNG-tests-1] INFO  core.TestListener - ---------- Test Started: testLoginFailed ----------
+2026-05-16 15:30:24.978 [TestNG-tests-1] INFO  core.TestListener - ---------- Test Started: testLoginFailed ----------
+2026-05-16 15:30:27.629 [TestNG-tests-1] INFO  core.TestListener - Test PASSED: testLoginFailed (Duration: 7886ms)
+2026-05-16 15:30:27.777 [TestNG-tests-1] INFO  core.TestListener - ========== Test Suite Finished: BookstoreLoginTests ==========
+2026-05-16 15:30:27.777 [TestNG-tests-1] INFO  core.TestListener - Total tests: 2, Passed: 2, Failed: 0, Skipped: 0
+2026-05-16 15:30:27.947 [TestNG-tests-1] INFO  core.TestListener - ExtentReports flushed successfully
+2026-05-16 15:30:27.948 [TestNG-tests-1] INFO  core.TestListener - ========== Test Suite Started: BookstoreHomePageTests ==========
+2026-05-16 15:30:27.949 [TestNG-tests-1] INFO  core.TestListener - ExtentReports initialized. Report will be saved to: /Users/muhamad.rizki/bootcamp/batch-4-qa/reports/extent-report_2026-05-16_15-30-27.html
+2026-05-16 15:30:28.888 [TestNG-tests-1] INFO  core.TestListener - Test PASSED: testLoginFailed (Duration: 3910ms)
+2026-05-16 15:30:29.229 [TestNG-tests-1] INFO  core.TestListener - ========== Test Suite Finished: BookstoreLoginTests ==========
+2026-05-16 15:30:29.229 [TestNG-tests-1] INFO  core.TestListener - Total tests: 2, Passed: 2, Failed: 0, Skipped: 0
+2026-05-16 15:30:29.628 [TestNG-tests-1] INFO  core.TestListener - ExtentReports flushed successfully
+2026-05-16 15:30:29.632 [TestNG-tests-1] INFO  core.TestListener - ========== Test Suite Started: BookstoreHomePageTests ==========
+2026-05-16 15:30:29.633 [TestNG-tests-1] INFO  core.TestListener - ExtentReports initialized. Report will be saved to: /Users/muhamad.rizki/bootcamp/batch-4-qa/reports/extent-report_2026-05-16_15-30-29.html
+2026-05-16 15:30:30.419 [TestNG-tests-1] INFO  core.TestListener - ---------- Test Started: testVerifyHomepage ----------
+2026-05-16 15:30:31.603 [TestNG-tests-1] INFO  core.TestListener - Test PASSED: testLoginFailed (Duration: 8191ms)
+2026-05-16 15:30:31.776 [TestNG-tests-1] INFO  core.TestListener - ---------- Test Started: testVerifyHomepage ----------
+2026-05-16 15:30:31.870 [TestNG-tests-1] INFO  core.TestListener - ========== Test Suite Finished: BookstoreLoginTests ==========
+2026-05-16 15:30:31.870 [TestNG-tests-1] INFO  core.TestListener - Total tests: 2, Passed: 2, Failed: 0, Skipped: 0
+2026-05-16 15:30:32.113 [TestNG-tests-1] INFO  core.TestListener - ExtentReports flushed successfully
+2026-05-16 15:30:32.115 [TestNG-tests-1] INFO  core.TestListener - ========== Test Suite Started: BookstoreHomePageTests ==========
+2026-05-16 15:30:32.116 [TestNG-tests-1] INFO  core.TestListener - ExtentReports initialized. Report will be saved to: /Users/muhamad.rizki/bootcamp/batch-4-qa/reports/extent-report_2026-05-16_15-30-32.html
+2026-05-16 15:30:33.208 [TestNG-tests-1] INFO  core.TestListener - Test PASSED: testLoginFailed (Duration: 9794ms)
+2026-05-16 15:30:33.494 [TestNG-tests-1] INFO  core.TestListener - ========== Test Suite Finished: BookstoreLoginTests ==========
+2026-05-16 15:30:33.494 [TestNG-tests-1] INFO  core.TestListener - Total tests: 2, Passed: 2, Failed: 0, Skipped: 0
+2026-05-16 15:30:33.797 [TestNG-tests-1] INFO  core.TestListener - ExtentReports flushed successfully
+2026-05-16 15:30:33.800 [TestNG-tests-1] INFO  core.TestListener - ========== Test Suite Started: BookstoreHomePageTests ==========
+2026-05-16 15:30:33.801 [TestNG-tests-1] INFO  core.TestListener - ExtentReports initialized. Report will be saved to: /Users/muhamad.rizki/bootcamp/batch-4-qa/reports/extent-report_2026-05-16_15-30-33.html
+2026-05-16 15:30:36.431 [TestNG-tests-1] INFO  core.TestListener - ---------- Test Started: testVerifyHomepage ----------
+2026-05-16 15:30:40.809 [TestNG-tests-1] INFO  core.TestListener - ---------- Test Started: testVerifyHomepage ----------
+2026-05-16 15:30:43.782 [TestNG-tests-1] WARN  core.TestListener - Test SKIPPED: testVerifyHomepage
+2026-05-16 15:30:45.910 [TestNG-tests-1] INFO  core.TestListener - Test PASSED: testVerifyHomepage (Duration: 14132ms)
+2026-05-16 15:30:46.271 [TestNG-tests-1] INFO  core.TestListener - ========== Test Suite Finished: BookstoreHomePageTests ==========
+2026-05-16 15:30:46.271 [TestNG-tests-1] INFO  core.TestListener - Total tests: 1, Passed: 1, Failed: 0, Skipped: 0
+2026-05-16 15:30:46.311 [TestNG-tests-1] INFO  core.TestListener - ExtentReports flushed successfully
+2026-05-16 15:30:47.548 [TestNG-tests-1] WARN  core.TestListener - Test SKIPPED: testVerifyHomepage
+2026-05-16 15:30:50.328 [TestNG-tests-1] INFO  core.TestListener - ---------- Test Started: testVerifyHomepage ----------
+2026-05-16 15:30:50.473 [TestNG-tests-1] WARN  core.TestListener - Test SKIPPED: testVerifyHomepage
+2026-05-16 15:30:54.766 [TestNG-tests-1] WARN  core.TestListener - Test SKIPPED: testVerifyHomepage
+2026-05-16 15:30:55.361 [TestNG-tests-1] INFO  core.TestListener - ---------- Test Started: testVerifyHomepage ----------
+2026-05-16 15:30:59.482 [TestNG-tests-1] INFO  core.TestListener - ---------- Test Started: testVerifyHomepage ----------
+2026-05-16 15:30:59.817 [TestNG-tests-1] INFO  core.TestListener - ---------- Test Started: testVerifyHomepage ----------
+2026-05-16 15:31:03.230 [TestNG-tests-1] WARN  core.TestListener - Test SKIPPED: testVerifyHomepage
+2026-05-16 15:31:07.434 [TestNG-tests-1] INFO  core.TestListener - ---------- Test Started: testVerifyHomepage ----------
+2026-05-16 15:31:07.919 [TestNG-tests-1] INFO  core.TestListener - Test PASSED: testVerifyHomepage (Duration: 8102ms)
+2026-05-16 15:31:08.104 [TestNG-tests-1] INFO  core.TestListener - ========== Test Suite Finished: BookstoreHomePageTests ==========
+2026-05-16 15:31:08.104 [TestNG-tests-1] INFO  core.TestListener - Total tests: 1, Passed: 1, Failed: 0, Skipped: 1
+2026-05-16 15:31:08.138 [TestNG-tests-1] INFO  core.TestListener - ExtentReports flushed successfully
+2026-05-16 15:31:08.650 [TestNG-tests-1] ERROR core.TestListener - Test FAILED: testVerifyHomepage
+2026-05-16 15:31:08.650 [TestNG-tests-1] ERROR core.TestListener - Failure reason: element click intercepted: Element is not clickable at point (1122, -27)
+  (Session info: chrome=148.0.7778.168)
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '26.2', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [059d1b884f96f39827c459ec10173287, clickElement {id=f.99447CAFF18EE5E03E3A9F7265DFFD72.d.5B7A828B5BF2AB29F0AA598EABE213A5.e.1003}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 148.0.7778.168, chrome: {chromedriverVersion: 148.0.7778.167 (65db666ac2c..., userDataDir: /var/folders/s7/rkmw7lx17zl...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53950}, goog:processID: 47644, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:53950/devtoo..., se:cdpVersion: 148.0.7778.168, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on mac (059d1b884f96f39827c459ec10173287)] -> xpath: //a[@id='navbarDropdown']]
+Session ID: 059d1b884f96f39827c459ec10173287
+2026-05-16 15:31:08.960 [TestNG-tests-1] INFO  core.TestListener - Screenshot saved: /Users/muhamad.rizki/bootcamp/batch-4-qa/reports/screenshots/testVerifyHomepage_20260516_153108.png
+2026-05-16 15:31:08.964 [TestNG-tests-1] INFO  core.TestListener - Screenshot captured: screenshots/testVerifyHomepage_20260516_153108.png
+2026-05-16 15:31:10.925 [TestNG-tests-1] INFO  core.TestListener - ========== Test Suite Finished: BookstoreHomePageTests ==========
+2026-05-16 15:31:10.926 [TestNG-tests-1] INFO  core.TestListener - Total tests: 1, Passed: 0, Failed: 1, Skipped: 2
+2026-05-16 15:31:10.959 [TestNG-tests-1] INFO  core.TestListener - ExtentReports flushed successfully
+2026-05-16 15:45:07.632 [TestNG-tests-1] INFO  core.TestListener - ========== Test Suite Started: BookstoreLoginTests ==========
+2026-05-16 15:45:07.632 [TestNG-tests-2] INFO  core.TestListener - ========== Test Suite Started: BookstoreHomePageTests ==========
+2026-05-16 15:45:07.656 [TestNG-tests-1] INFO  core.TestListener - ========== Test Suite Started: BookstoreLoginTests ==========
+2026-05-16 15:45:07.656 [TestNG-tests-2] INFO  core.TestListener - ========== Test Suite Started: BookstoreHomePageTests ==========
+2026-05-16 15:45:07.715 [TestNG-tests-2] INFO  core.TestListener - ExtentReports initialized. Report will be saved to: /Users/muhamad.rizki/bootcamp/batch-4-qa/reports/extent-report_2026-05-16_15-45-07.html
+2026-05-16 15:45:07.715 [TestNG-tests-1] INFO  core.TestListener - ExtentReports initialized. Report will be saved to: /Users/muhamad.rizki/bootcamp/batch-4-qa/reports/extent-report_2026-05-16_15-45-07.html
+2026-05-16 15:45:07.723 [TestNG-tests-2] INFO  core.TestListener - ExtentReports initialized. Report will be saved to: /Users/muhamad.rizki/bootcamp/batch-4-qa/reports/extent-report_2026-05-16_15-45-07.html
+2026-05-16 15:45:07.723 [TestNG-tests-1] INFO  core.TestListener - ExtentReports initialized. Report will be saved to: /Users/muhamad.rizki/bootcamp/batch-4-qa/reports/extent-report_2026-05-16_15-45-07.html
+2026-05-16 15:45:21.004 [TestNG-tests-2] INFO  core.TestListener - ---------- Test Started: testVerifyHomepage ----------
+2026-05-16 15:45:23.440 [TestNG-tests-1] INFO  core.TestListener - ---------- Test Started: testLoginSuccess ----------
+2026-05-16 15:45:24.032 [TestNG-tests-2] INFO  core.TestListener - ---------- Test Started: testVerifyHomepage ----------
+2026-05-16 15:45:24.356 [TestNG-tests-1] INFO  core.TestListener - ---------- Test Started: testLoginSuccess ----------
+2026-05-16 15:45:27.557 [TestNG-tests-1] INFO  core.TestListener - Test PASSED: testLoginSuccess (Duration: 4117ms)
+2026-05-16 15:45:36.626 [TestNG-tests-1] INFO  core.TestListener - Test PASSED: testLoginSuccess (Duration: 12268ms)
+2026-05-16 15:45:42.424 [TestNG-tests-1] INFO  core.TestListener - ---------- Test Started: testLoginFailed ----------
+2026-05-16 15:45:43.656 [TestNG-tests-2] INFO  core.TestListener - Test PASSED: testVerifyHomepage (Duration: 22654ms)
+2026-05-16 15:45:43.920 [TestNG-tests-2] INFO  core.TestListener - ========== Test Suite Finished: BookstoreHomePageTests ==========
+2026-05-16 15:45:43.920 [TestNG-tests-2] INFO  core.TestListener - Total tests: 1, Passed: 1, Failed: 0, Skipped: 0
+2026-05-16 15:45:44.118 [TestNG-tests-2] INFO  core.TestListener - ExtentReports flushed successfully
+2026-05-16 15:45:44.381 [TestNG-tests-2] INFO  core.TestListener - Test PASSED: testVerifyHomepage (Duration: 20350ms)
+2026-05-16 15:45:45.954 [TestNG-tests-1] INFO  core.TestListener - Test PASSED: testLoginFailed (Duration: 3531ms)
+2026-05-16 15:45:46.110 [TestNG-tests-1] INFO  core.TestListener - ========== Test Suite Finished: BookstoreLoginTests ==========
+2026-05-16 15:45:46.110 [TestNG-tests-1] INFO  core.TestListener - Total tests: 2, Passed: 2, Failed: 0, Skipped: 0
+2026-05-16 15:45:46.132 [TestNG-tests-1] INFO  core.TestListener - ExtentReports flushed successfully
+2026-05-16 15:45:50.624 [TestNG-tests-1] INFO  core.TestListener - ---------- Test Started: testLoginFailed ----------
+2026-05-16 15:45:55.174 [TestNG-tests-1] INFO  core.TestListener - Test PASSED: testLoginFailed (Duration: 4550ms)
+2026-05-16 15:45:55.341 [TestNG-tests-1] INFO  core.TestListener - ========== Test Suite Finished: BookstoreLoginTests ==========
+2026-05-16 15:45:55.342 [TestNG-tests-1] INFO  core.TestListener - Total tests: 2, Passed: 2, Failed: 0, Skipped: 0
+2026-05-16 15:45:55.486 [TestNG-tests-1] INFO  core.TestListener - ExtentReports flushed successfully
+2026-05-16 15:46:04.566 [TestNG-tests-2] INFO  core.TestListener - ========== Test Suite Finished: BookstoreHomePageTests ==========
+2026-05-16 15:46:04.567 [TestNG-tests-2] INFO  core.TestListener - Total tests: 1, Passed: 1, Failed: 0, Skipped: 0
+2026-05-16 15:46:04.633 [TestNG-tests-2] INFO  core.TestListener - ExtentReports flushed successfully

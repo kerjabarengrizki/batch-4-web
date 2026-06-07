@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="bookstore.HomePageTests" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-05-16T08:45:21" hostname="Muhamad-Rizki.local" time="23.38">
+  <properties/>
+  <testcase name="testVerifyHomepage" classname="bookstore.HomePageTests" time="22.654"/>
+  <testcase name="testVerifyHomepage" classname="bookstore.HomePageTests" time="20.35"/>
+  <system-out><![CDATA[=== Driver Initialization ===
+=== Driver Initialization ===
+Running in CI: false
+Setting up ChromeDriver via WebDriverManager
+Running in CI: false
+Setting up ChromeDriver via WebDriverManager
+Creating ChromeDriver instance...
+Creating ChromeDriver instance...
+ChromeDriver created successfully!
+ChromeDriver created successfully!
+15:45:21.004 [TestNG-tests-2] INFO  core.TestListener - ---------- Test Started: testVerifyHomepage ----------
+15:45:24.032 [TestNG-tests-2] INFO  core.TestListener - ---------- Test Started: testVerifyHomepage ----------
+]]></system-out>
+  <system-err><![CDATA[May 16, 2026 3:45:10 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find CDP implementation matching 148
+May 16, 2026 3:45:10 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$4
+WARNING: Unable to find version of CDP to use for 148.0.7778.168. You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.35.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+May 16, 2026 3:45:10 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find CDP implementation matching 148
+May 16, 2026 3:45:10 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$4
+WARNING: Unable to find version of CDP to use for 148.0.7778.168. You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.35.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+]]></system-err>
+</testsuite>
