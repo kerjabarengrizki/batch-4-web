@@ -66,6 +66,23 @@ public class DriverManager {
                     options.addArguments("--remote-debugging-port=9222");
                     options.addArguments("--disable-software-rasterizer");
                     options.addArguments("--remote-allow-origins=*");
+                    options.addArguments("--disable-background-networking");
+                    options.addArguments("--disable-default-apps");
+                    options.addArguments("--disable-sync");
+                    options.addArguments("--disable-translate");
+                    options.addArguments("--hide-scrollbars");
+                    options.addArguments("--metrics-recording-only");
+                    options.addArguments("--mute-audio");
+                    options.addArguments("--no-first-run");
+                    options.addArguments("--safebrowsing-disable-auto-update");
+                    options.addArguments("--ignore-certificate-errors");
+                    options.addArguments("--ignore-ssl-errors=yes");
+                    options.addArguments("--ignore-certificate-errors-spki-list");
+                    options.addArguments("--disable-logging");
+                    options.addArguments("--log-level=3");
+                    options.addArguments("--output=/dev/null");
+                    options.addArguments("--single-process");
+                    options.addArguments("--disable-breakpad");
                     System.out.println("Headless mode enabled with CI-specific options");
                 } else {
                     options.addArguments("--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36");

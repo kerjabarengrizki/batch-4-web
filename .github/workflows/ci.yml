@@ -9,7 +9,8 @@ on:
    branches:
      - main
  workflow_dispatch:
-
+   schedule:
+     - cron: '0 11 * * *' //0 itu adalah menit, 11 itu jam, * itu setiap hari, * itu setiap bulan, * itu setiap hari dalam seminggu. Jadi cron ini akan berjalan setiap hari pada pukul 11:00 UTC (atau sesuai dengan zona waktu yang digunakan oleh runner GitHub Actions).
 
 jobs:
  test:
